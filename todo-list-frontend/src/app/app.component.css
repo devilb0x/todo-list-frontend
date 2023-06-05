@@ -1,0 +1,8 @@
+.fill,
+.input {
+  width: 95%;
+}
+
+.strike {
+  text-decoration: line-through;
+}
